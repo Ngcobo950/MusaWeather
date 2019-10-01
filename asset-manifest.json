@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/MusaWeather/static/css/main.f4a0146b.chunk.css",
+    "main.js": "/MusaWeather/static/js/main.735f70c6.chunk.js",
+    "main.js.map": "/MusaWeather/static/js/main.735f70c6.chunk.js.map",
+    "runtime~main.js": "/MusaWeather/static/js/runtime~main.1124a676.js",
+    "runtime~main.js.map": "/MusaWeather/static/js/runtime~main.1124a676.js.map",
+    "static/css/2.266e55a5.chunk.css": "/MusaWeather/static/css/2.266e55a5.chunk.css",
+    "static/js/2.287d4f9b.chunk.js": "/MusaWeather/static/js/2.287d4f9b.chunk.js",
+    "static/js/2.287d4f9b.chunk.js.map": "/MusaWeather/static/js/2.287d4f9b.chunk.js.map",
+    "index.html": "/MusaWeather/index.html",
+    "precache-manifest.a7fb93d5bebd08e9cb904695240c25a3.js": "/MusaWeather/precache-manifest.a7fb93d5bebd08e9cb904695240c25a3.js",
+    "service-worker.js": "/MusaWeather/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/MusaWeather/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.f4a0146b.chunk.css.map": "/MusaWeather/static/css/main.f4a0146b.chunk.css.map",
+    "static/media/App.css": "/MusaWeather/static/media/weather.e75e709c.jpg"
+  }
+}
